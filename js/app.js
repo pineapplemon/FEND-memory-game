@@ -284,6 +284,7 @@ startGame();
 
 
 //  Had the idea to match image with Chinese character.
+//  Extra image resources in img/ folder
 
 // Constructor function to set up CardData
 //  function CardData(name, image, id, Zodiac) {
@@ -331,18 +332,6 @@ startGame();
 //    Dog, Gou,
 //    Pig, Zhu);
 
-
-
-// const deck = document.querySelector(".deck");
-// function startGame(){
-//    var shuffledCards = shuffle(cards);
-//    for (var i= 0; i < shuffledCards.length; i++){
-//       [].forEach.call(shuffledCards, function(item){
-//          deck.appendChild(item);
-//       });
-//    }
-// }
-// window.onload = startGame();
 
 
 /*
